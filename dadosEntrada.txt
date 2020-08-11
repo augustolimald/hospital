@@ -1,0 +1,9 @@
+2
+Doctor;Nicole Sousa;705.867.893-67;04/07/1990;feminino;128NDG7834
+Nurse;Breno Martins;814.346.549-74;01/02/1987;masculino
+5
+ChildPatient;Tânia Oliveira;298.425.181-40;13/11/2014;feminino;O+;1.21;27.2;3654;40000;1
+ChildPatient;Vitor Araujo;224.416.917-08;21/05/2010;masculino;B+;1.30;40.3;1321;8000;3
+AdultPatient;Ágatha Melo;996.792.976-67;01/07/1997;feminino;O+;1.71;65.60;false;2000;2
+AdultPatient;Leonardo Rocha;775.151.460-44;30/09/1976;masculino;AB;1.68;70.30;true;1200;4
+ChildPatient;Marcos Almeida;734.963.365-36;19/05/2009;masculino;A+;1.54;45.8;8767;10000;3
